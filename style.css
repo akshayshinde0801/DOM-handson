@@ -1,0 +1,18 @@
+.Flex{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+.flexBox{
+    height: 120px;
+    width: 120px;
+    background-color: rgb(47, 255, 0);
+    margin: 1em;
+}
+#valuebox{
+    background-color: rgb(46, 215, 215);
+    color: rgb(139, 42, 0);
+    height: 4em;
+    width: 8em;
+    margin-bottom: 2em;
+}
